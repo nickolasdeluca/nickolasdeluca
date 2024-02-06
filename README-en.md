@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/nickolasdeluca/nickolasdeluca/blob/main/README-en.md) [![br](https://img.shields.io/badge/lang-br-red.svg)](https://github.com/nickolasdeluca/nickolasdeluca/blob/main/README.md) 
+
 ## Hi there👋
 
 I'm Nickolas de Luca Alberton, a software developer and hardware enthusiast. With more than 10 years of experience within the IT world, and more than 20 years passionately involved with anything that has a functional (and sometimes dysfunctional) circuit board, I have the pleasure of working with what I love most... computers!
