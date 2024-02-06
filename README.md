@@ -1,3 +1,5 @@
+[![br](https://img.shields.io/badge/lang-br-green.svg)](https://github.com/nickolasdeluca/nickolasdeluca/blob/main/README.md) [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/nickolasdeluca/nickolasdeluca/blob/main/README-en.md)
+
 ## Olá 👋
 
 Meu nome é Nickolas de Luca Alberton, sou desenvolvedor de software e um entusiasta de hardware. Com mais de 10 anos de experiência na área de TI e mais de 20 anos apaixonado por tudo que tem um circuito elétrico funcional (e as vezes não funcional), tenho o prazer de trabalhar com aquilo que amo... computadores! 
